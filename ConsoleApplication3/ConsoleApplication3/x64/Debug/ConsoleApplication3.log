@@ -1,0 +1,12 @@
+﻿  ConsoleApplication3.cpp
+D:\vs2022\ide\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\vs2022\code\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(67,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vs2022\code\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(69,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vs2022\code\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(71,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vs2022\code\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(73,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\vs2022\code\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(74,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\vs2022\code\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(76,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\vs2022\code\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(77,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\vs2022\code\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(79,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\vs2022\code\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(80,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  ConsoleApplication3.vcxproj -> D:\vs2022\code\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
